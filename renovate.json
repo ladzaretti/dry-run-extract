@@ -1,3 +1,4 @@
 {
-  "dryRun": "extract"
+  "dryRun": "extract",
+  "baseBranches": ["dev", "main"]
 }
